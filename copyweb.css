@@ -1,0 +1,63 @@
+h2{
+  font-size: larger;
+  
+}
+img{
+    width: 100%;
+}
+body{color: black;}
+  .title{
+    padding-left: 37%;
+    
+    color: whitesmoke;
+    
+  }
+  .heel{
+    color: lightblue;
+  }
+.tired{
+  background-color: blue;
+}
+body{
+  
+}
+.sides{
+  color: black; 
+  
+  text-align: center;
+  color: gray;
+  font-size: x-large;
+}
+header {
+  background-color: navy;
+}
+.type1{
+  padding-left: 37%;
+}
+#like{
+  text-align: center;
+  color: white;
+  background-color: gold;
+
+}
+table{
+  color: rgb(101, 149, 208);
+}
+#last{
+  background-color: rgb(101, 149, 208);
+
+  color: white;
+}
+h4{
+  text-align: center;
+}
+.large{
+  font-size: x-large;
+}
+.colored link{
+  color: blueviolet;
+}
+form{
+  text-align: center;
+}
+
